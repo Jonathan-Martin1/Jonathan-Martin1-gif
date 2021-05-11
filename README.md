@@ -1,5 +1,6 @@
 ### Hi there <img src="https://diginess.ca/content/uploads/2020/02/waving_hand_sign_1024.gif" width="30px">, I am Jonathan Martin
-
+## LinkedIn <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="jonathan-martin-software-engineer" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/jonathan-martin-software-engineer?trk=profile-badge">Jonathan Martin (he/him)</a></div>
+              
 <!--
 **JonathanMartin-gif/JonathanMartin-gif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
