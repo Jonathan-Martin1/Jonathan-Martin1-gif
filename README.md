@@ -1,4 +1,4 @@
-### Hi there <img src="https://c.tenor.com/z2xJqhCpneIAAAAC/wave-hand.gif" width="30px">, I am Jonathan Martin
+### Hi there <img src="https://c.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width="30px">, I am Jonathan Martin
 
 ---
 
