@@ -8,7 +8,7 @@ Software engineer with experience using PostgreSQL, Node, Express, React to buil
 
 I'm internally motivated and always eager to improve: learned to code through Udemy, Thinkful. My management and industry experience means I understand business decisions and organizations. My journey into coding means I'm ready to dive right into new skills and learn as I go!
 
-<img src="https://docs.google.com/document/d/1A5W4RzXsNvhLausS0zGbZtU5YCVXSHWs/edit?usp=sharing&ouid=106326643934775284457&rtpof=true&sd=true" width="100%">
+<img src="https://ibb.co/h9t8YMq" width="100%">
 
 ---
 
