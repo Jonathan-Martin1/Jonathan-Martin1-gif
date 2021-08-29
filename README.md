@@ -10,7 +10,7 @@ I'm internally motivated and always eager to improve: learned to code through Ud
 
 ---
 
-![Jonathan Martin's Resume](Resume.png)
+![Jonathan Martin's Resume](Res.png)
 
 ---
 
