@@ -10,10 +10,11 @@ I'm internally motivated and always eager to improve: learned to code through Ud
 
 ---
 
-<!-- <image src="/Resume-Jonathan-Martin.pd"/> -->
-[embed]
+<!-- [embed]
 https://github.com/JonathanMartin-gif/JonathanMartin-gif/blob/main/Resume-Jonathan-Martin.pdf
-[/embed]
+[/embed] -->
+<img src="https://github.com/JonathanMartin-gif/JonathanMartin-gif/blob/main/Resume-Jonathan-Martin.pdf" alt="Javascript Logo" />
+
 ---
 
 🧰 ToolBox
