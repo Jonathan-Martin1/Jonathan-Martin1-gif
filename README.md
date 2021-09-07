@@ -10,10 +10,6 @@ I'm internally motivated and always eager to improve: learned to code through Ud
 
 ---
 
-<!-- [embed]
-https://github.com/JonathanMartin-gif/JonathanMartin-gif/blob/main/Resume-Jonathan-Martin.pdf
-[/embed] -->
-<img src="https://github.com/JonathanMartin-gif/JonathanMartin-gif/blob/main/Resume-Jonathan-Martin.pdf" alt="Jonathan Martin's Resume" />
 
 ---
 
