@@ -10,7 +10,7 @@ I'm internally motivated and always eager to improve: learned to code through Ud
 
 ---
 
-<img src="/Linkedin Post.png" alt="Resume"  />
+<img src="/resume" alt="Resume"  />
 
 ---
 
